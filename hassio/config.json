@@ -18,10 +18,10 @@
   },
   "options": {
     "log_level": "INFO",
-    "mqtt_host": "core-mosquitto",
-    "mqtt_user": null,
-    "mqtt_pass": null,
-    "port": null
+    "mqtt_host": "192.168.27.30",
+    "mqtt_user": "marco",
+    "mqtt_pass": "raineri",
+    "port": "1883"
   },
   "schema": {
     "app": [
